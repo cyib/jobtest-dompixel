@@ -1,0 +1,25 @@
+.removeLink:hover, 
+.removeLink:visited, 
+.removeLink:link, 
+.removeLink:active
+{
+    text-decoration: none!important;
+    -webkit-box-shadow: none!important;
+    box-shadow: none!important;
+}
+
+.title{
+    float: left;
+    font-weight: bold;
+    color: #007ebc;
+}
+
+.btn{
+    float: right;
+}
+
+
+
+.home-header{
+    margin-top: 10px;
+}
